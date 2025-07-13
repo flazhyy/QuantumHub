@@ -1,2 +1,3 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
-loadstring(game:HttpGet("https://pastefy.app/2egj1KgM/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/Ga1BYTkU/raw"))()
+
